@@ -88,7 +88,7 @@ CFG-Parser/
 
 ## Credits
 
-Developed by [omar-wanis](https://github.com/omar-wanis).
+Developed by [omar-wanis](https://github.com/omar-wanis) and [Mody-manour](https://github.com/Modymanour).
 
 ## License
 
