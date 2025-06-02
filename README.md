@@ -2,7 +2,7 @@
 
 A Python project for parsing and analyzing Context-Free Grammars (CFGs), featuring both a command-line backend and a modern graphical user interface (GUI) built with `customtkinter`. The parser supports string validation using both BFS and DFS derivation methods, making it a useful tool for students, educators, and anyone interested in formal language processing.
 
-## Feature
+## Features
 
 - **Define your own CFG:** Enter grammar rules in a user-friendly format.
 - **Parse strings:** Check if a string is accepted by your grammar using either BFS or DFS.
