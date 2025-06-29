@@ -16,7 +16,7 @@ A Python project for parsing and analyzing Context-Free Grammars (CFGs), featuri
 
    ```bash
    git clone https://github.com/omar-wanis/CFG-Parser.git
-   cd CFG-Parser
+   
    ```
 
 2. **Install Python dependencies:**
